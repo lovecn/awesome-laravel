@@ -78,7 +78,7 @@ Laravel精选资源大全
 * [LaravelDotEnvGen](https://github.com/mathiasgrimm/laravel-dot-env-gen) - 基于项目源码生成 .env.gen 文件
 * [Laravel Administrator](https://github.com/FrozenNode/Laravel-Administrator) - Laravel后台管理
 * [Laravel 5 UEditor](https://github.com/stevenyangecho/laravel-u-editor) - 百度编辑器集成到Laravel5（支持七牛云存储）
-
+* [Laravel 5 admin](http://git.oschina.net/ctk/laravel5_backend) - laravel 5 框架的后台基础系统
 ##### Javascript
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  在JavaScript中处理来自服务器端的字符串、数组、集合以及其它数据结构的数据
 * [Laroute](https://github.com/aaronlord/laroute) - 在JavaScript中生成Laravel路由URLs
